@@ -15,5 +15,5 @@ I am interested in analyzing access to healthy food markets (or **lack of**), es
  
 #<h2> Bristol Farms produce, Los Angeles.
  ![Bristol Farms produce](https://mamalikestocook.com/wp-content/uploads/2015/11/20151118_145342.jpg)
- # <h2>Food 4 Less Produce, Los Angeles.
+ #<h2>Food 4 Less Produce, Los Angeles.
  ![Food For Less produce](https://cdn.businessyab.com/assets/uploads2/01600f9b7fb64dac141d11190f4af64c_-united-states-california-los-angeles-county-gardena-artesia-boulevard-1299-food-4-less-310-768-3095.jpg)
