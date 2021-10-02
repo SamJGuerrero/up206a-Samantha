@@ -12,3 +12,5 @@ My goal of this course as an urban planning student is to learn the coding and m
 # <h2> Data Science Project Space: 
 I am interested in analyzing access to healthy food markets (or **lack of**), especially by comparing this to income levels within a community. 🍋 🥩 🥬 🍗 🧅
  For example, growing up on the Eastside, I never knew about Trader Joe's, or Sprout's. We mainly had family-owned markets, or the lower-quality markets of bigger food companies. I want to use data science, especially GIS, to create a map that visualizes the proximity of food access and income levels. The goal of this project is to prove how markets with high-quality products have a preferred consumer profile compared to other markets with lower-quality products that are placed in low-income areas that tailor to BIPOC. 
+![Bristol Farms produce](https://mamalikestocook.com/wp-content/uploads/2015/11/20151118_145342.jpg)
+Format: ![Alt Text](url)
