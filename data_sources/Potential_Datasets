@@ -1,1 +1,8 @@
+# Potential_Datasets
+Potential datasets to be used to support the Intro to GIS course projects.
+My first data set is the Median Income for LA County (2017). The data uses a range from as low as 5,682 to 221,635 for living wage in 2017. The median income is analyzed throughout LA County. The link to the URL website where I found the data is here from the LA County website: https://data.lacounty.gov/dataset/Median-Income-2017-/fipf-wyij
+[Living_Wage__2017_.csv](https://github.com/SamJGuerrero/Potential_Datasets/files/7274538/Living_Wage__2017_.csv)
+
+
+My second data set is named Grocery Stores that are actively registered with the Office of Finance. This data set has been updated as recent as September 15, 2021. The URL link is from the LA City website: https://data.lacity.org/Administration-Finance/Grocery-Stores/g986-7yf9[Grocery_Stores.csv](https://github.com/SamJGuerrero/Potential_Datasets/files/7274537/Grocery_Stores.csv)
 
